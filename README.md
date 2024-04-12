@@ -1,16 +1,22 @@
-# NM_SHAMAFATHIMA_FRIDAYBATCH_FSWD_PROJECT
-Name: shama
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID: au960221104108
+Project implemented by: 
 
 
-College name: Arunachala College of Engineering for Women
+Name:
 
 
+ID:
 
-username: shama
+
+College name:
 
 
-Password: 12345
+Login credentials: 
+
+username: root
+
+
+Password: root
 
